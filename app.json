@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "packagerOpts": {
+      "port": 50081
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "splash": {
+      "backgroundColor": "#ffffff",
+      "resizeMode": "contain",
+      "image": "./assets/splash.png"
+    },
+    "icon": "./assets/icon.png",
+    "name": "Osam",
+    "description": "This project is really great.",
+    "slug": "Osam",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait"
+  }
+}
